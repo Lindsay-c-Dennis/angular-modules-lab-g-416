@@ -1,2 +1,2 @@
 angular
-  .module('app', [ng-route]);
+  .module('app', ['ngRoute']);
