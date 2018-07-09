@@ -1,3 +1,3 @@
 angular
-  .module('app');
+  .module('app')
   .controller('MainController', MainController);
