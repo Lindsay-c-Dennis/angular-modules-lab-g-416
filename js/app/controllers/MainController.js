@@ -1,4 +1,6 @@
-function MainController
+function MainController($scope) {
+  
+}
 
 angular
   .module('app')
